@@ -1,6 +1,8 @@
 # RAG-Chatbot-for-Company-Documents-using-Google-Drive-Gemini
 
 A fully automated Retrieval-Augmented Generation (RAG) chatbot built using n8n, Google Drive, Gemini Embeddings, and Pinecone Vector Database to provide accurate, context-aware answers from company documents.
+![rag](https://github.com/user-attachments/assets/c8c6180f-1178-4aeb-9a2d-b44a371961af)
+
 
 ## 🚀 Project Overview
 This project implements an intelligent RAG-based chatbot that retrieves information from company documents stored in Google Drive. The system automatically ingests documents, generates embeddings, stores them in Pinecone, and uses AI models to answer user queries based on relevant retrieved context.
